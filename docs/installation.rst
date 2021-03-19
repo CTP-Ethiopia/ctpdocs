@@ -14,7 +14,7 @@ Authentication
 | It does, however, have a drawback. What if a person have an email account not hosted on Google? We are mostly used to people with Gmail accounts but we have come across some with yahoo accounts las summer. Not only did we have a problem with authentication, but also the yahoo mail servers kept putting emails from our servers to the spam and students were not able to get notifications and forum updates from within the website. 
 -------
 
-| So what? We hihgly recommend an email address hosted on Google, but if not possible we will use CTP SSO and integrate other login methods. 
+| So what? We highly recommend an email address hosted on Google, but if not possible we will use CTP SSO and integrate other login methods. 
 -------
 
 | We will also try to overcome the spam issue by including a Telegram integration and when there are updates, people would actually get notified through Telegram. This feature will be available to everyone and we will be testing it out.
