@@ -13,7 +13,7 @@ CTP Ethiopia Documentation
 Support 
 -------
 
-| Updates are always given @ https://tech.ctpethiopia.org
+| Updates will be given on CTP Ethiopia's  `Tech Page <https://tech.ctpethiopia.org>`_  
 | Email us for support at info@ctpethiopia.org
 
 System Status
