@@ -20,9 +20,6 @@ System Status
 -------
 https://tech.ctpethiopia.org/~/sys-status/ctp
 
-License
--------
 
-The project is licensed under the BSD license.
 
 
