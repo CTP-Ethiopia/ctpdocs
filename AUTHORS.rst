@@ -5,3 +5,6 @@ CTP Doc Authors
 * Benyam Eshete `@beynam <https://ctpethiopia.org/blog/author/benyam/>`_  on CTP
 
 
+| Suggestion to the docs can be given to the authors or by PRs.
+
+
