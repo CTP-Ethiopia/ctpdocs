@@ -20,11 +20,11 @@ System Status
 | Uptime history available  here `here. <https://ctpacademy.statuspage.io/history>`_ 
 
 
-Support 
+Updates and Support 
 -------
 
 | Updates will be given on CTP Ethiopia's  `Tech Page. <https://tech.ctpethiopia.org>`_  
-| Create a support ticket at `Support Page <https://my.ctpethiopia.org/submit-ticket>`_ or email us at info@ctpethiopia.org
+| For techincal support, submit a ticket at our `Support Page <https://my.ctpethiopia.org/submit-ticket>`_ or email us at info@ctpethiopia.org
 
 
 
