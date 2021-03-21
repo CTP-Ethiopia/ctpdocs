@@ -24,7 +24,7 @@ Support
 -------
 
 | Updates will be given on CTP Ethiopia's  `Tech Page. <https://tech.ctpethiopia.org>`_  
-| Email us for support at `Tech Page. <https://tech.ctpethiopia.org>`_ or at info@ctpethiopia.org
+| Email us for support at `Tech Page <https://tech.ctpethiopia.org>`_ or at info@ctpethiopia.org
 
 
 
