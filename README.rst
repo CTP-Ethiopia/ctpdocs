@@ -1,6 +1,6 @@
 
 
-CTP Ethiopia Documentation
+About
 -------
 
 .. Not really a documentation considering the fact that we are not creating any new apps or anything, but it felt only correct to use Github to host our ReadtheDocs
