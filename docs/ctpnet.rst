@@ -11,7 +11,7 @@ CTP Networks Docs
 
 **Nomenclature**
 
-|CTP Ethiopia Networks will be referred to as 'CTP Ethiopia Networks' or 'CTPNet' in short through out this whole documentation.
+| CTP Ethiopia Networks will be referred to as 'CTP Ethiopia Networks' or 'CTPNet' in short through out this whole documentation.
 
 |
 **Registration**
