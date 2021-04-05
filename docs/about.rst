@@ -13,6 +13,7 @@ About
 
 **System Status**
 
+
 | CTP is transparent on any system updates, upgrades or new software installations.
 | We give out details on how the updates will affect personal accounts, and what you should do about these updates.
 | Current System Status is available  `here. <https://tech.ctpethiopia.org/~/sys-status/ctp>`_ 
@@ -24,6 +25,7 @@ About
 
 | Updates will be given on CTP Ethiopia's  `Tech Page. <https://tech.ctpethiopia.org>`_  
 | For techincal support, submit a ticket at our `Support Page <https://my.ctpethiopia.org/submit-ticket>`_ or email us at info@ctpethiopia.org
+
 
 **CTP Doc Authors**
 
