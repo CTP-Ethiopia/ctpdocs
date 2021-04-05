@@ -28,7 +28,7 @@ CTP Networks Docs
 |
 | When you arrive at the login page, you will see two login methods
 | 
-.. image:: /static/img/net-login.png
+.. image:: https://raw.githubusercontent.com/aaronkebede/ctpdocs/master/static/img/net-login.png
   :width: 720
   :alt: CTPNet Login Page Screenshot
   
