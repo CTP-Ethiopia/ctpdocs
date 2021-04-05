@@ -28,7 +28,7 @@ CTP Networks Docs
 |
 | When you arrive at the login page, you will see two login methods
 | 
-.. image:: https://makeda.ctpethiopia.org/cloud/static/docs/net-login.png
+.. image:: /static/img/net-login.png
   :width: 720
   :alt: CTPNet Login Page Screenshot
   
