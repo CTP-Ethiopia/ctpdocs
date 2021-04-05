@@ -28,7 +28,7 @@ Logging in
 | When you arrive at the login page, you will see two login methods
 | 
 .. image:: https://makeda.ctpethiopia.org/cloud/static/docs/net-login.png
-  :width: 500
+  :width: 720
   :alt: CTPNet Login Page Screenshot
   
 | The first login method is an easier authentication method using your Google account. Since you are likely going to be using Gmail for your CTP account, you can log in with a single click. If you are a CTP alumni, this is your login method.
