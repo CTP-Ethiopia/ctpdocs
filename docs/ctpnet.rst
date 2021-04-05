@@ -33,12 +33,13 @@ CTP Ethiopia Networks will be referred to as 'CTP Ethiopia Networks' or 'CTPNet'
   :alt: CTPNet Login Page Screenshot
   
 | The first login method is an easier authentication method using your Google account. Since you are likely going to be using Gmail for your CTP account, you can log in with a single click. If you are a CTP alumni, this is your login method.
+|
 | The second one is a manual log in method for those with out a Google account or who manually registered on CTPNet. You will have to use a username/password combination to log in. 
-
+|
 **Questions?**
 
 
-
+|
 | For techincal support, submit a ticket at our `Support Page <https://my.ctpethiopia.org/submit-ticket>`_ if you are a CTP student or email us at info@ctpethiopia.org for general inquiries.
 
 
