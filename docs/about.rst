@@ -10,6 +10,7 @@ About
 | We will be updating files and adding pages as we incorporate more software and add customizations.
 | As sessions start, we will also be adding guides on  Authentication, assignment submissions methods and other necessary activities for students and instructors. 
 
+
 **System Status**
 
 | CTP is transparent on any system updates, upgrades or new software installations.
@@ -23,9 +24,9 @@ About
 
 | Updates will be given on CTP Ethiopia's  `Tech Page. <https://tech.ctpethiopia.org>`_  
 | For techincal support, submit a ticket at our `Support Page <https://my.ctpethiopia.org/submit-ticket>`_ or email us at info@ctpethiopia.org
-
+ 
 **CTP Doc Authors**
-
+ 
 * Aaron Kebede `@aaronkebede <https://github.com/aaronkebede>`_ on Github and `@aaron <https://net.ctpethiopia.org/members/aaron/>`_  on CTP
 * Benyam Eshete `@beynam <https://net.ctpethiopia.org/members/benyam/>`_  on CTP
 *Suggestions to the docs can be given to the authors or by PRs.*
