@@ -6,14 +6,13 @@ CTP Networks Docs
 
 
 | This page will include docs related to `CTP Ethiopia Networks <https://net.ctpethiopia.org/>`_ 
-
 | We will be updating files and adding pages as we incorporate more software and add customizations to CTPNet.
-
+|
 
 **Nomenclature**
 
 CTP Ethiopia Networks will be referred to as 'CTP Ethiopia Networks' or 'CTPNet' in short through out this whole documentation.
-
+|
 **Registration**
 
 
