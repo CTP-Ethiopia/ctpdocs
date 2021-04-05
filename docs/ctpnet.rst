@@ -22,10 +22,10 @@ CTP Ethiopia Networks will be referred to as 'CTP Ethiopia Networks' or 'CTPNet'
 | For non-CTP members, we are still in the middle of figuring out how to use the platform, but you can still submit `registraton request here. <https://net.ctpethiopia.org/register>`_ 
 | `Contact us <https://ctpethiopia.org/contact>`_ if you have any questions. 
 
-
+|
 **Logging in**
 
-
+|
 | When you arrive at the login page, you will see two login methods
 | 
 .. image:: https://makeda.ctpethiopia.org/cloud/static/docs/net-login.png
