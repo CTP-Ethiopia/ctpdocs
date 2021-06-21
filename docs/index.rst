@@ -6,6 +6,11 @@
 Welcome to CTP Ethiopia's Documentation Page!
 ==================================================
 
+
+**********
+User friendly Docs page is available on CTP Ethiopia's `Tech Site <https://tech.ctpethiopia.org/docs>`_
+**********
+
 Contents:
 
 .. toctree::
