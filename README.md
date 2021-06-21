@@ -44,7 +44,7 @@ For techincal support, submit a ticket at our [Support Page](https://my.ctpethio
 *Suggestions to the docs can be given to the authors or by PRs.*
 
 
-![CTP EThiopia LOGO](https://makeda.ctpethiopia.org/cloud/static/default-logo.png)
+![CTP EThiopia LOGO](https://shiro-wat.ctpethiopia.org/public/~/content/rsrc/sites/3/20201029041531/ctp-logo.png)
 
 
 
