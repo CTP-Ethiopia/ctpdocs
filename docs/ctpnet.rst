@@ -40,7 +40,7 @@ CTP Networks Docs
 
 
 |
-| For techincal support, submit a ticket at our `Support Page <https://my.ctpethiopia.org/submit-ticket>`_ if you are a CTP student or email us at info@ctpethiopia.org for general inquiries.
+| For techincal support, submit a ticket at our `Support Page <https://tech.ctpethiopia.org/support/index.php?a=add>`_ if you are a CTP student or email us at info@ctpethiopia.org for general inquiries.
 
 
 
