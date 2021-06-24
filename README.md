@@ -35,11 +35,11 @@ Uptime history available  here [here](https://ctpacademy.statuspage.io/history)<
 **Updates and Support**
 
 Updates will be given on CTP Ethiopia's [Tech Page](https://tech.ctpethiopia.org)
-For techincal support, submit a ticket at our [Support Page](https://my.ctpethiopia.org/submit-ticket) or email us at info@ctpethiopia.org
+For techincal support, submit a ticket at our [Support Page](https://tech.ctpethiopia.org/support) or email us at info@ctpethiopia.org
 
 **CTP Doc Authors** 
  
-* Aaron Kebede [@aaronkebede](https://github.com/aaronkebede) on Github and [aaron](https://net.ctpethiopia.org/members/aaron/)  on CTP
+* Aaron Kebede [@aaronkebede](https://github.com/aaronkebede) on Github and [aaron](https://www.ctpethiopia.org/#!/members/aaron/)  on CTP
 * Benyam Eshete [@beynam](https://net.ctpethiopia.org/members/benyam/) on CTP
 *Suggestions to the docs can be given to the authors or by PRs.*
 
