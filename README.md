@@ -17,6 +17,7 @@ CTP aims to demystify the college application process to US universities by givi
 [Net](https://net.ctpethiopia.org)<br>
 
 
+Some projects arec currently on hold - you might be redirected to a diffferent webpage. We will continue to update our docs & make announcements on our [Tech](https://ctpethiopia.org/~/tech) site about new things. </br>
 # About CTP Documentation
 
 Visit [/docs/about.rst](https://github.com/aaronkebede/ctpdocs/blob/master/docs/about.rst) to learn more.<br>
