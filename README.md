@@ -35,7 +35,7 @@ Uptime history available  here [here](https://ctpacademy.statuspage.io/history)<
 
 **Updates and Support**
 
-Updates will be given on CTP Ethiopia's [Tech Page](https://tech.ctpethiopia.org)
+Updates will be given on CTP Ethiopia's [Tech](https://tech.ctpethiopia.org) Page
 For techincal support, submit a ticket at our [Support Page](https://tech.ctpethiopia.org/support) or email us at info@ctpethiopia.org
 
 **CTP Doc Authors** 
