@@ -25,6 +25,10 @@ About
 | Updates will be given on CTP Ethiopia's  `Tech Page. <https://tech.ctpethiopia.org>`_  
 | For techincal support, submit a ticket at our `Support Page <https://my.ctpethiopia.org/submit-ticket>`_ or email us at info@ctpethiopia.org
 | 
+
+=============
+Contacting Us
+=============
 **CTP Doc Authors**
  
 * Aaron Kebede `@aaronkebede <https://github.com/aaronkebede>`_ on Github and `@aaron <https://net.ctpethiopia.org/members/aaron/>`_  on CTP
