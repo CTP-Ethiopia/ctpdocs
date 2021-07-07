@@ -23,7 +23,8 @@ Some projects arec currently on hold - you might be redirected to a diffferent w
 Visit [/docs/about.rst](https://github.com/aaronkebede/ctpdocs/blob/master/docs/about.rst) to learn more.<br>
 
 
-This is a simple documentation page designed for hosting guides on the summer session programs at [CTP Ethiopia](https://ctpethiopia.org/) <br> 
+This is a simple documentation page designed for hosting guides on the summer session programs at [CTP Ethiopia](https://ctpethiopia.org/). <br> 
+
 We will be updating files and adding pages as we incorporate more software and add customizations. As sessions start, we will also be adding guides on  Authentication, assignment submissions methods and other necessary activities for students and instructors.<br> 
 
 **System Status** <br>
