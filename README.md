@@ -31,8 +31,8 @@ We will be updating files and adding pages as we incorporate more software and a
 
 CTP is transparent on any system updates, upgrades or new software installations. <br>
 *We give out details on how the updates will affect personal accounts, and what you should do about these updates.* <br>
-Current System Status is available  [here](https://tech.ctpethiopia.org/~/sys-status/ctp)<br>
-Uptime history available [here](https://ctpacademy.statuspage.io/history) or [here](https://status.my.ctpethiopia.org/)<br>
+Current System Status is available  [here](https://tech.ctpethiopia.org/~/sys-status/ctp) or [here](https://ctpacademy.statuspage.io)<br>
+Uptime history available [here](https://ctpacademy.statuspage.io/history)<br>
 
 **Updates and Support**
 
