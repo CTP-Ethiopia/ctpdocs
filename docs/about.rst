@@ -31,8 +31,8 @@ Contacting Us
 =============
 **CTP Doc Authors**
  
-* Aaron Kebede `@aaronkebede <https://github.com/aaronkebede>`_ on Github and `@aaron <https://web.ctpethiopia.org/members/aaron/>`_  on CTP
-* Benyam Eshete `@beynam <https://web.ctpethiopia.org/members/benyam/>`_  on CTP
+* Aaron Kebede `@aaronkebede <https://github.com/aaronkebede>`_ on Github and `@aaron <https://my.ctpethiopia.org/app/v1/user/profile.php?id=5>`_  on CTP
+* Benyam Eshete `@beynam <https://my.ctpethiopia.org/app/v1/user/profile.php?id=30>`_  on CTP
 *Suggestions to the docs can be given to the authors or by PRs.*
 
 
