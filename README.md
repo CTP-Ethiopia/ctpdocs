@@ -41,8 +41,8 @@ For techincal support, submit a ticket at our [Support Page](https://tech.ctpeth
 
 **CTP Doc Authors** 
  
-* Aaron Kebede [@aaronkebede](https://github.com/aaronkebede) on Github and [aaron](https://www.ctpethiopia.org/?s=aaron&#!/members/aaron/)  on CTP
-* Benyam Eshete [@beynam](https://ctpethiopia.org/?s=benyam) on CTP
+* Aaron Kebede [@aaronkebede](https://github.com/aaronkebede) on Github and [Aaron](https://www.ctpethiopia.org/?s=aaron&#!/members/aaron/)  on CTP
+* Benyam Eshete [Beynam](https://ctpethiopia.org/?s=benyam) on CTP
 *Suggestions to the docs can be given to the authors or by PRs.*
 
 
