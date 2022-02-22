@@ -31,7 +31,7 @@ We will be updating files and adding pages as we incorporate more software and a
 
 CTP is transparent on any system updates, upgrades or new software installations. <br>
 *We give out details on how the updates will affect personal accounts, and what you should do about these updates.* <br>
-Current System Status is available  [here](https://tech.ctpethiopia.org/~/sys-status/ctp) or [here](https://ctpacademy.statuspage.io)<br>
+Current System Status is available  [here](https://status.my.ctpethiopia.org/) or [here](https://ctpacademy.statuspage.io)<br>
 Uptime history available [here](https://ctpacademy.statuspage.io/history)<br>
 
 **Updates and Support**
@@ -41,8 +41,8 @@ For techincal support, submit a ticket at our [Support Page](https://tech.ctpeth
 
 **CTP Doc Authors** 
  
-* Aaron Kebede [@aaronkebede](https://github.com/aaronkebede) on Github and [Aaron](https://www.ctpethiopia.org/?s=aaron&#!/members/aaron/)  on CTP
-* Benyam Eshete [Beynam](https://ctpethiopia.org/?s=benyam) on CTP<br>
+* Aaron Kebede [@aaronkebede](https://github.com/aaronkebede) on Github and [Aaron](https://ctpacademy.org/app/v1/user/view.php?id=4)  on CTP
+* Benyam Eshete [Beynam](https://ctpacademy.org/app/v1/user/profile.php?id=13) on CTP<br>
 *Suggestions to the docs can be given to the authors or by PRs.*
 
 
