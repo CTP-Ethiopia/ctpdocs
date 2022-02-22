@@ -3,7 +3,7 @@ Identity, Authentication and Account Management
 ============
 
 ************
-For easier instructions, read the simpler doc page on CTP Tech `here. <https://tech.ctpethiopia.org/help/what-type-of-login-should-i-use-ctp-ethiopia-academy/>`_  
+For easier instructions, read the simpler doc page on CTP Tech `here. <https://tech.ctpethiopia.org/>`_  
 ************
 
 | We will primarily be using Authentication with OAuth2 by Google.
